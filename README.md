@@ -31,7 +31,7 @@ Welcome to the Video Games Sales Data Analysis project! In this side-project, I 
 
 ![image](https://github.com/user-attachments/assets/7827ef94-8460-4b6e-a99a-d1cad9987938)
 
-![image](https://github.com/user-attachments/assets/76a2bfc0-af77-4cf7-80cb-761bf17f569b)
+![image](https://github.com/user-attachments/assets/a66681c3-a0af-46f7-bf11-c7c7790c7017)
 
 ---
 
